@@ -27,7 +27,7 @@ function Member() {
     <div id="member">
       <div className="main-wrapper">
         <h1 className="sub-title1">
-          Unveiling Excellence: Meet Our Dedicated Society Team Member
+          Unveiling Excellence: Meet Our Dedicated Society Team Members
         </h1>
         <div className="wrapper">
           {array.map((ele, index) => (

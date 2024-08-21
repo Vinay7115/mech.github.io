@@ -20,7 +20,7 @@ function Herosection() {
       <div className="content5">
         <h1>MEKANIKA</h1>
         {/* <br/> */}
-        <h2>The official society of Mechanical Engneering Department</h2>
+        <h2>The official society of Mechanical Engineering Department</h2>
         <h3>IIT Kharagpur</h3>
       </div>
     </div>

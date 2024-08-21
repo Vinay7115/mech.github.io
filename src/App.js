@@ -6,6 +6,7 @@ import Contact from "./components/contact";
 import Event from "./components/event";
 import Footer from "./components/footer";
 import Member from "./components/member";
+import Map from "./components/map";
 
 function App() {
   return (
@@ -16,7 +17,9 @@ function App() {
       <Event />
       <Member />
       <Contact />
+      <Map/>
       <Footer />
+      
     </div>
   );
 }

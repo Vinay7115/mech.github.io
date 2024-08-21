@@ -324,7 +324,7 @@ nav ul li a:hover::after {
 /* --------------------contact------------------------- */
 
 .contain1 {
-  min-height: 100vh;
+  min-height: 92vh;
   background: black;
   display: flex;
   justify-content: center;
@@ -462,7 +462,7 @@ textarea::-webkit-scrollbar-thumb {
 
 .singlecard {
   text-align: center;
-  transition: all 1.5s cubic-bezier(0.7, 0.5, 0.3, 1.8);
+  transition: all 0.8s cubic-bezier(0.7, 0.5, 0.3, 1.8);
   transform-style: preserve-3d;
 }
 
@@ -603,7 +603,7 @@ footer p {
 
   .video-container {
 
-    height: 70vh;
+    height: 90vh;
 
   }
 
@@ -628,6 +628,7 @@ footer p {
   nav ul li {
     display: block;
     margin: 25px;
+    padding-top: 2px;
   }
 
   #about {
@@ -639,6 +640,12 @@ footer p {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 100px;
     margin-top: 50px;
+  }
+  .layer p{
+    font-size: 16px;
+  }
+  .container1{
+    font-size: 17px;
   }
 
 
@@ -682,7 +689,7 @@ footer p {
   }
 
   .about-col-2 p {
-    font-size: 17px;
+    font-size: 20px;
     text-align: center;
   }
 
